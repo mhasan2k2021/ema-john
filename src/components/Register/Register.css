@@ -1,0 +1,21 @@
+.sing-form-container {
+  box-sizing: border-box;
+  width: 500px;
+  height: 750px;
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+  margin: 50px auto;
+}
+
+.error-area {
+  width: 100%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.text-error {
+  color: red;
+  margin-left: 42px;
+  font-size: 16px;
+}
